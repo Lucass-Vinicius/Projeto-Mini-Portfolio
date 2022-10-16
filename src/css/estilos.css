@@ -41,7 +41,7 @@ body{
 
 .cartao .minhas-informacoes .cargo{
     font-size: 20px;
-    color: #b8bc5b;
+    color: #b8bbc5;
 }
 
 .cartao .conteudo{
@@ -108,6 +108,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 25px;
+    align-items: center;
     max-height: 180px;
     overflow-y: auto;
 }
@@ -120,6 +121,7 @@ body{
     padding: 10px;
     font-size: 20px;
     transition: opacity 03.s ease-in-out;
+    border-radius: 7px;
 }
 
 .redes-sociais .curriculo{

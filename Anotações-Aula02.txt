@@ -1,9 +1,0 @@
-# Aula CSS (Folha de estilo em cascata)
-
-Margn define espaçamentos externos. Já o padding é um espaçamento interno.
-
-Pesquisar mais sobre box-sizing em CSS - Estidar display flex  - Estudar overflow
-
-100vh - VH view port height - altura da janela do site
-
-96px por 96px - Foto de perfil 
